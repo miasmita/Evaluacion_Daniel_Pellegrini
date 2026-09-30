@@ -11,3 +11,4 @@ Proyecto de minería de datos basado en CRISP-DM para la clasificación de exopl
 | **Carrera:** | Ing. en informatica. |
 | **Dataset elegido:** | Kepler Exoplanet Search Results (`cumulative.csv`) |
 | **Enlace:** | https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results |
+| **Enlace directo cuaderno:** | https://colab.research.google.com/drive/1UxoCpyXEmcQDBdku7_4BXWx6lmH97GmM?usp=sharing |
